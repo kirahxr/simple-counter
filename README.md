@@ -1,4 +1,4 @@
-# simple-counter
+# Sins Counter LOL
 ## How to Use?
 1. clone this project
 ```
